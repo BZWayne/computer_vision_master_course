@@ -6,3 +6,4 @@ These exercises are completed by me and Jabrail Chumakov. From the first lab, th
 <!-- ## Warping, translation, and rotation methods 
 ![alt_text](https://github.com/BZWayne/computer_vision_algo/blob/main/image_formation/results.jpg) -->
 
+
